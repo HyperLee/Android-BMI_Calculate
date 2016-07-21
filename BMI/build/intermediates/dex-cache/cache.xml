@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android_code\BMI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="12ca65ac93ae22bc2145a4ab6a5abdbe26edb495">
+        <dex dex="C:\Android_code\BMI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0197ff5ee790615fa5d917753fdd2fe9b841b072\classes.dex" />
+    </item>
+    <item
+        jar="C:\StudioSdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Android_code\BMI\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_43aeaf9e4060880d2f2150e98bd2d792def2303d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android_code\BMI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a10fa1186ec93662f67f80f452607ebc8be806a6">
+        <dex dex="C:\Android_code\BMI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_73019121f18210d079a2baf1d2efa64ec9367cbe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android_code\BMI\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Android_code\BMI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_68a4f2f73cb1351cffa0f66284bf971080aae1bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android_code\BMI\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Android_code\BMI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_f54a6fc3e2dbb9b3a7356104448db6a3dc1f3273\classes.dex" />
+    </item>
+
+</items>

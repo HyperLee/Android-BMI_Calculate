@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bmi_height">身高 (cm)</string>
+    <string name="bmi_weight">體重 (kg)</string>
+    <string name="bmi_btn">計算BMI值</string>
+    <string name="bmi_result">你的 BMI 值是</string>
+    <string name="Take_pic">TakePic</string>
+    <!-- advice -->
+    <string name="advice_light">你該多吃點;是沒錢吃飯喔</string>
+    <string name="advice_average">唉唷看起來還不錯喔~</string>
+    <string name="advice_heavy">死胖子你吃太多了;吃太多了懂嗎胖子</string>
+    <string name="input_error">輸入數值不會嗎;輸入懂嗎;入懂嗎;懂嗎;嗎</string>
+    <string name="advice_history">上次測試結果：</string>
+    <string name="input_empty"></string>
+    <!-- other -->
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="action_close">Close</string>
+    <!-- dialog -->
+    <string name="about_title">關於 Android BMI</string>
+    <string name="about_msg">Android BMI Calc</string>
+    <string name="label_homepage">首頁</string>
+    <string name="homepage_uri">http://google.com.tw/</string>
+    <!--records array -->
+    <string-array name="records">
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>24</item>
+        <item>23</item>
+        <item>22</item>
+        <item>20</item>
+    </string-array>
+</resources>
