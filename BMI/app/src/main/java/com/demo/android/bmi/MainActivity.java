@@ -8,7 +8,6 @@ import android.content.Intent;
 import android.content.res.Configuration;
 import android.content.res.Resources;
 import android.database.Cursor;
-import android.database.SQLException;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -165,15 +164,15 @@ public class MainActivity extends Activity {
 
 			// record calcBMI result to db
 			mDbHelper = new DB(MainActivity.this);
-			try {
+//			try {
 				try {
 					mDbHelper.open();
 				} catch (java.sql.SQLException e) {
 					e.printStackTrace();
 				}
-			} catch (SQLException e) {
-				e.printStackTrace();
-			}
+//			} catch (SQLException e) {
+//				e.printStackTrace();
+//			}
 			mDbHelper.create(nf.format(BMI));
 			mDbHelper.close();
 
