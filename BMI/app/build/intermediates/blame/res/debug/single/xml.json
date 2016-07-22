@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\GitHub\\Android-BMI_Calculate\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref.xml",
+        "source": "C:\\GitHub\\Android-BMI_Calculate\\BMI\\app\\src\\main\\res\\xml\\pref.xml"
+    },
+    {
         "merged": "C:\\Android_code\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref.xml",
         "source": "C:\\Android_code\\BMI\\app\\src\\main\\res\\xml\\pref.xml"
     }

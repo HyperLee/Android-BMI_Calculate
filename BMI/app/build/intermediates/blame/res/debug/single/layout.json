@@ -4,11 +4,23 @@
         "source": "C:\\Android_code\\BMI\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\GitHub\\Android-BMI_Calculate\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\GitHub\\Android-BMI_Calculate\\BMI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\Android-BMI_Calculate\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "C:\\GitHub\\Android-BMI_Calculate\\BMI\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
         "merged": "C:\\Android_code\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report.xml",
         "source": "C:\\Android_code\\BMI\\app\\src\\main\\res\\layout\\activity_report.xml"
     },
     {
         "merged": "C:\\Android_code\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
         "source": "C:\\Android_code\\BMI\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\Android-BMI_Calculate\\BMI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report.xml",
+        "source": "C:\\GitHub\\Android-BMI_Calculate\\BMI\\app\\src\\main\\res\\layout\\activity_report.xml"
     }
 ]
