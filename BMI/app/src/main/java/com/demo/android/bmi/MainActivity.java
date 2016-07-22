@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.content.res.Configuration;
 import android.content.res.Resources;
 import android.database.Cursor;
+import android.database.SQLException;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -163,14 +164,18 @@ public class MainActivity extends Activity {
 			show_result.setText(getText(R.string.bmi_result) + nf.format(BMI));
 
 			// record calcBMI result to db
-//			mDbHelper = new DB(MainActivity.this);
-//			try {
-//				mDbHelper.open();
-//			} catch (SQLException e) {
-//				e.printStackTrace();
-//			}
-//			mDbHelper.create(nf.format(BMI));
-//			mDbHelper.close();
+			mDbHelper = new DB(MainActivity.this);
+			try {
+				try {
+					mDbHelper.open();
+				} catch (java.sql.SQLException e) {
+					e.printStackTrace();
+				}
+			} catch (SQLException e) {
+				e.printStackTrace();
+			}
+			mDbHelper.create(nf.format(BMI));
+			mDbHelper.close();
 
 			// Give health advice
 			if (BMI > 25) {

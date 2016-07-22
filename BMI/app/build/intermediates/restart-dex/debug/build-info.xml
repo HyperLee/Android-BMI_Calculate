@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
-    density="xxxhdpi"
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
     format="7"
-    timestamp="102267431076262"
-    token="3536859922674838852" >
+    timestamp="16657920351253"
+    token="-2229513554780492177" >
 
     <task
         name="javac"
@@ -20,11 +20,16 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="102017521651538" >
+    <build timestamp="16285102769439" >
         <artifact
-            location="C:\Android_code\BMI\app\build\outputs\apk\app-debug.apk"
+            location="C:\GitHub\Android-BMI_Calculate\BMI\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="102267431076262" />
+    <build timestamp="16598382315940" >
+        <artifact
+            location="C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="16657920351253" />
 
 </instant-run>
