@@ -1,7 +1,3 @@
-CHANGED,C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\android\bmi\MainActivity$1$override.class
-CHANGED,C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\android\bmi\MainActivity$2$override.class
 CHANGED,C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
 CHANGED,C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\android\bmi\MainActivity$override.class
 CHANGED,C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\android\bmi\MainActivity$4$override.class
-CHANGED,C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\android\bmi\MainActivity$BmiCalcTask$override.class
-CHANGED,C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\demo\android\bmi\MainActivity$3$override.class

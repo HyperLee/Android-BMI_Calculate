@@ -4,22 +4,35 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="90036869203820"
+    timestamp="189218754228888"
     token="-2229513554780492177" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="432" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="74" />
     <task
         name="verifier"
-        duration="0" />
+        duration="10" />
 
-    <build timestamp="90036869203820" />
+    <artifact
+        location="C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+
+    <build timestamp="188172796967419" >
+        <artifact
+            location="C:\GitHub\Android-BMI_Calculate\BMI\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="189218754228888" >
+        <artifact
+            location="C:\GitHub\Android-BMI_Calculate\BMI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
 
 </instant-run>
